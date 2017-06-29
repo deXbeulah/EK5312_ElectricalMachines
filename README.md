@@ -3,7 +3,7 @@ EK5312_ElectricalMachines
 
 Mainly calculation examples in [Jupyter](http://jupyter.org/) Notebook format.
 
-See also the [read-only nbviewer version](http://nbviewer.ipython.org/github/dietmarw/EK5312_ElectricalMachines/tree/master/Chapman).
+See also the [read-only nbviewer version](http://nbviewer.jupyter.org/github/dietmarw/EK5312_ElectricalMachines/tree/master/Chapman).
 
 *(The interactive version comes back in Autumn)*
 
