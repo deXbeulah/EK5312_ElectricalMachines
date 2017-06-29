@@ -133,3 +133,6 @@ See also the [read-only nbviewer version](http://nbviewer.ipython.org/github/die
  * [Ch9-Problem_9-07.ipynb](Chapman/Ch9-Problem_9-07.ipynb)
  * [Ch9-Problem_9-08.ipynb](Chapman/Ch9-Problem_9-08.ipynb)
  * [Ch9-Problem_9-09.ipynb](Chapman/Ch9-Problem_9-09.ipynb)
+
+## Errata
+ * [Chapman5e_errata.ipynb](Chapman/Chapman5e_errata.ipynb)
